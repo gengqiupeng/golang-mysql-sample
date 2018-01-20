@@ -1,4 +1,4 @@
-FROM golang:1.9-rc-alpine
+FROM golang:1.8-stretch
 
 MAINTAINER Sakeven "sakeven.jiang@daocloud.io"
 
