@@ -12,7 +12,7 @@ func init() {
 	InitDB()
 }
 /**
-dd
+ddd
  */
 func main() {
 	http.HandleFunc("/", index)
