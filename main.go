@@ -11,7 +11,9 @@ func init() {
 	MustConnectDB()
 	InitDB()
 }
-
+/**
+dd
+ */
 func main() {
 	http.HandleFunc("/", index)
 	http.HandleFunc("/new", insert)
